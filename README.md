@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=1740A8&height=150&section=header" />
+<h1>Hello 👋</h1>
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
