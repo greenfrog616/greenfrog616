@@ -2,6 +2,7 @@
 - 🥸 저는 아직 많은 것을 배우고 있습니다.
 - 📷 사진찍는게 취미 입니다.
 - 🐸 좋은 피드백은 언제나 환영입니다.
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenfrog616)](https://github.com/anuraghazra/github-readme-stats)
 - <a href="https://www.instagram.com/j_xwjx616"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_xwjx616"/></a>
 - <a href="mailto:greenfrog0616@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:greenfrog0616@gmail.com"/></a>
 <!---
