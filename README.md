@@ -9,7 +9,7 @@
 </details>
 <ditails>
   <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Fire.png" alt="fire" width="2%" /> 개발에 참여한 ... 
+     개발에 참여한 ... 
 </summary>
 
 </ditails>
