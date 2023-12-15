@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=1740A8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=1740A8&height=50&section=header" />
 <h1>Hello 👋</h1>
 <details>
 <summary>
