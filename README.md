@@ -20,12 +20,14 @@
    <br>
   
 <a href="https://www.instagram.com/j_xwjx616"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_xwjx616"/></a> <a href="mailto:greenfrog0616@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:greenfrog0616@gmail.com"/></a>
+</details>
+<details>
 <summary>
  Widgets
 </summary>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenfrog616)](https://github.com/anuraghazra/github-readme-stats)
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=greenfrog616&theme=tokyonight" alt="GitHub Streak" /></a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=greenfrog616&theme=tokyonight)](https://git.io/streak-stats)
 </details>
 
 <!---
