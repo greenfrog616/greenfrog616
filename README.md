@@ -1,7 +1,9 @@
 
 <h1>Hello 👋</h1>
 <details>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=greenfrog616&theme=tokyonight&hide_border=%EA%B1%B0%EC%A7%93" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=greenfrog616&theme=tokyonight&hide_border=" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=greenfrog616&theme=tokyonight&hide_border=)](https://git.io/streak-stats)
+
  
   
 <summary>
