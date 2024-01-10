@@ -25,8 +25,8 @@
   <summary>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> WIDGETS
   </summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenfrog616)](https://github.com/anuraghazra/github-readme-stats)
-  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenfrog616&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=greenfrog616&show_icons=true">  
 </details>
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenfrog616)](https://github.com/greenfrog616)
 
